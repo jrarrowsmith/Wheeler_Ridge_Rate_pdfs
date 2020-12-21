@@ -1,8 +1,8 @@
 Supplemental document:
-## Exploration of geologically reasonable surface uplift and horizontal propagation rates
+# Exploration of geologically reasonable surface uplift and horizontal propagation rates
 Kleber, et al.
 
-# Overview
+## Overview
 
 Reconstruction of displaced landforms with their ages provides the basic information to determine rates of faulting or fold growth. Gold and Cowgill (2011) and numerous others have explored this issue by considering the age-displacement pairs as part of a range of possible histories constrained by plausible samples through the age and position ranges. This approach has advantages over simple linear fits through the data including assessment of secular variations in rates, exploration of the age and position constraints, and the general nuance of the implications of the resulting history on the processes under investigation.
 
