@@ -1,6 +1,7 @@
 function [sample_points_pos, sample_points_age]=collect_points_on_trajectories_continuous(ages, pos,n, step_size)
 %This function collects points on the sampled trajectories for later 2D
 %histograms. It marches through all of the input files
+%J R Arrowsmith, December 2020
 
 sample_points_pos=[];
 sample_points_age=[];
