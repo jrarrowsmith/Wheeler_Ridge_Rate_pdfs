@@ -1,6 +1,6 @@
 Supplemental document:
 # Exploration of geologically reasonable surface uplift and horizontal propagation rates
-Kleber, et al.
+for Kleber, E. M., DeVecchio, D., Arrowsmith, J R., Rittenour, T., Spatiotemporal rates of tectonic deformation and landscape evolution above a laterally propagating thrust fault: Wheeler Ridge anticline, California, USA, Lithosphere,  (Special 2): 3395719, https://doi.org/10.2113/2021/3395719, 2021.  
 
 ## Overview
 
